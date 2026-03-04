@@ -1,4 +1,4 @@
-# audition-survival-workshop
+# The Audition Survival Workshop
 Acting workshop for recent conservatory grads or other actors who are new to real-world auditions.
 
 ## Goal
@@ -11,11 +11,11 @@ Planning
 TBD
 
 ## Quick Links
-- Run of show: docs/run-of-show.md
-- Outline: docs/outline.md
+- Run of show: docs/March 5 Beta Test - Run of Show.md
+- Outline: docs/The Audition Survival Workshop.md
 - Admin checklist: admin/checklist.md
 - Outreach copy: outreach/copy.md
-- Debrief notes: feedback/debrief.md
+- Debrief notes: feedback/March 3 Beta Test - Feedback.md
 
 ## How this repo is organized
 - docs/ = polished materials

@@ -1,0 +1,357 @@
+# Intro
+- Thank people for being there and give an overview of what you're going to be doing.
+- Introduce yourself
+- ==Let participants introduce themselves (Name, pronouns, little bit about you as an actor)==
+- ==Who has an audition coming up==
+- ==Who just had an audition recently==
+	- ==Do you have the sides? Can we try it out later?==
+# Reality of Auditioning
+## What are auditions for?
+- I believe auditioning and acting are two almost entirely different muscle groups
+	- Acting usually involves 
+		- rehearsal 
+		- sets 
+		- props 
+		- direction 
+		- OTHER ACTORS
+- Auditioning strips away most of the things that make your job as an actor easier. 
+	- No set 
+	- no costume 
+	- no props 
+	- no direction 
+	- very little time to prepare 
+	- and many times no other actors involved at all
+	- My first couple of years out of school I genuinely believed that auditioning was the *worst* possible way to judge an actor.
+- So why do we do it like this?
+	- Many other jobs, even other creative jobs don't always require you to audition so why does acting need you to?
+- **Auditions are the only way for a creative team to understand what you would bring to their production**
+	- It is just as difficult for them as it is for you:
+		- Imagine
+			- Choosing sides that give you a good enough representation of the character and that are realistic for an audition setting
+			- Seeing dozens or even hundreds of people for a single role and trying to quantify their un-quantifiable qualities so you can decide later.
+			- Trying to balance hiring decisions, creative decisions, practical decisions and gut feelings.
+		- Let's even say you were super famous, everyone knows your work and is certain you are right for the role. 
+			- When you show up on set or in rehearsal you might have a wildly different idea about the character than the director and maybe it just doesn't fit. 
+## So what is casting looking for?
+- They are not
+	- Testing how good an actor you are, whatever that means. 
+	- Seeing how many lines you can memorize overnight
+	- Judging your face or hair or body (unless they are just insane, in which case you don't want to work with them anyway)
+- They are
+	- Providing a forum to meet you as a person and as an artist
+	- Seeing what instincts or ideas you might bring to their production
+	- Seeing how you work, how you work with others, and how you take notes
+	- Deciding if what you bring might fit into what they have in mind
+	- Looking for ideas, because maybe they don't have any
+- **This is exactly why trying to guess what they are looking for ties you up in knots, sometimes they don't even know.**
+## Question for the group
+- ==What part of auditioning stresses you out the most?==
+# Preparing Auditions
+==-> When you get an audition you will usually have *some* amount of time to prepare for it. What do you do in that time? ==
+- Learn your lines
+	- ==I want to hear how you guys do it, and then I can go through the most useful ways I've found==
+	- Ways I've found
+		- Record yourself saying the lines and listen to it over and over:
+			- Line Learner (best)
+			- Cold Read (buggy and overpriced)
+			- Voice memos
+		- 'Line Ladder':
+			- Read your first line off the page
+			- Repeat it three times
+			- Read your first line and the second line off the page
+			- Repeat them both in succession three times
+			- Continue with the rest of your lines
+			- By the end you should be able to say all your lines straight through three times without needing to cheat
+		- Read with someone else:
+			- This can be really helpful but is not my top choice since it relies on someone else
+			- Just read through the scene many times, without worrying about the "acting" of it. 
+			- Doing it out loud with a real person who can respond to you in real time can sometimes make it sink in faster and you might discover things the about the scene as you go
+		- **Special Case:** Shakespeare Tennis Ball Exercise
+			- As you say your lines, toss a tennis ball up on the last iamb of one line and catch it on the first iamb of the next line
+			- Forces you to move through the lines in verse and with no delay between them
+			- Will shake out any uncertainty early
+- Make strong choices
+	- **This is kind of the most important part of auditioning and it happens early in on and almost always completely inside your own mind/body**
+	- Make some decisions about the character, circumstance, action, tone of the scene, etc... and don't back off of them. 
+	- Have a point of view on the scene and go with your gut reaction to it
+	- Commit hard and then build off of it so you can't go back.
+	- ==Someone who has sides, let's play a game and just make a strong choice right now==
+		- Doesn't have to be right, just has to be loud
+		- How can we build off of that?
+- Decide what you're going to wear
+	- This might sound trivial but it's something you have direct control over, its a choice you get to make
+	- Casting Directors and Directors often struggle to imagine what you might be like in the role unless you help them a little.
+		- Wear something that evokes the character, time period, genre without being a costume. Nothing you wouldn't ever wear outside of an audition. 
+		- Don't wear anything that has a logo or image on it, these can often pull focus away from you. 
+		- Make sure your clothes are washed or at least look washed. 
+		- Don't agonize over what you're going to wear, this is just a gesture toward the thing you're auditioning for to help them imagine what it might be like with you in it. 
+
+# - 10 min break -
+# Auditioning
+- ==We're going to treat this like an audition==
+	- ==Who wants to get up and audition right now with what they have?==
+### Selftapes (info for reference)
+*You don't need to be a professional cinematographer or file manager, but taking the time to understand the tech that you use as well as you can will make it easier in the long run.*
+- Find someone to read with
+	- Everyone always needs a reader so this can be a great little economy of favors. (Also a great way to stay in touch with other actors)
+-  Set up your equipment
+	- Backdrop
+		- The standard is a blue background, either a wall or a smooth fabric backdrop
+	- 2-3 lights, key and rim, or key fill and rim, 
+		- (#1 priority) Key: Main light source to light your face
+		- (Nice to have) Rim: Secondary light to separate you from the background, just a little hint of light on the side of your face so you don't look 2-D against the backdrop
+		- (Professional set up)Fill: Secondary light source to fill in the dark side of your face but dimmer to maintain contrast
+	- Camera
+		- Just use your phone. Whatever phone you have is better than 90% of all other cameras you could buy. 
+		- Use a phone mount on a tripod, these can be bought on Amazon for like $10, but you can get [nicer ones for like $25](https://www.amazon.com/dp/B0CGDCNL1K)
+	- Mic
+		- This is purely a nice-to-have. The mic on your phone is totally fine and your phone will do a pretty good job of isolating your voice.
+		- Don't get a Lav mic or clip on mic unless you can figure out a way to also make sure your reader is mic'ed. 
+	- Read over Zoom/Facetime
+		- If your reader can't be in the room with you, which is usually the case unless you're reading with a roommate/partner, you can read with someone on Zoom or Facetime.
+		- They can even act as a human teleprompter:
+			- Send them the sides then have them share their screen, as they scroll you can both read your lines and you can have your hands free and your eyes up.
+	- Reading off a screen
+		- This is just going to have to happen sometimes. You won't always have enough time to get fully off-book for every selftape, and reading off a screen for selftapes is usually better than reading off of printed sides
+		- The best way to do it is to either set up the PDFs so you can see all your lines at the same time
+		- Or sometimes even better is to use a cheap bluetooth mouse like a remote and scroll as you read. Just try not to gesture with it.
+		- No one has EVER complained about me reading off of a screen for a selftape, and I honestly don't think anyone has ever even noticed
+- Edit your tape
+	- iMovie for simple editing, DaVinci Resolve for Windows or more complex editing
+	- Some auditions want separate files for each take and a slate. Just edit the beginning and end so it's just the scene. 
+	- Most auditions expect one file with everything. Cut each take to just the scene and put them in sequence along with the slate either at the beginning or end. 
+	- I like a quick fade to black between scenes for a smooth transition
+	- Background noise can be mitigated in iMovie and probably in DaVinci Resolve, and color can be corrected in both (to a certain extent)
+	- Try to keep the file size of the finished tape as small as you can while still maintaining quality
+		- iMovie export settings:
+- Submit your tape
+	- Some tapes can be uploaded directly to Actors Access or Backstage but some need to be sent as a file. 
+	- Best way is via cloud storage like Google Drive, iCloud Drive, Dropbox, etc... where you can upload and send a link
+	- If you are able to set an expiration date on the link share, set for one month
+	- It's okay to delete old tapes once it's clear that you didn't book them. (I held on for years, there's no reason it just takes up space)
+
+### In-Person (info for reference)
+- Make sure you know where you're going
+	- A lot of these casting offices are tucked away in big midtown buildings or random co-working spaces, make sure you leave time to find the right floor, suite, room, etc...
+	- There are a couple of places you'll get used to going to like Ripley Grier, Pearl Studios, Sunlight Studios, etc... Make sure you still double check where you're supposed to be. 
+- Bring printed sides
+	- Some casting directors will provide printed sides as a courtesy but don't rely on it. Even if you don't use them they are nice to have and give you some security in the room (and something to have in your hands!)
+- Bring water!
+	- Being nervous and talking a lot makes you thirsty! Taking a second before or between scenes is also a great way to ground and reset your body if you feel your anxiety starting to spike. 
+- Be prepared to wait
+	- Sometimes you'll get there and they'll be ready right away or you'll be the first one in that day, but usually there will be a few people ahead of you. 
+	- If you really feel like you just can't recall your lines, take a second to go through your scenes while you're waiting, but overall I do NOT recommend doing this. 
+	- Most of the time, going over your lines either puts you in your head about forgetting them or it kind of robs you of the chance to discover things in the room. 
+	- Try to trust that you know your lines and that you can let your body remember in the room and look forward to the spontaneous discoveries you'll make!
+- Greet people
+	- Much of the time when you're starting out, you will be meeting casting directors that you have not met before, but *sometimes* you have actually met them before and you just don't remember because it was one of a thousand auditions. 
+	- The best 'line' I've come up with to get around this awkward interaction is "Good to see you!" This can apply to people you have and haven't met before and most people won't even notice. 
+	- Don't feel like you have to charm the pants off of everyone. 
+		- Casting directors are seeing a million people a day and they mostly want to see how you handle the scene
+		- If you sense an opportunity to connect about something, feel free but otherwise just be friendly and professional. Everyone will still appreciate you. 
+	- When the audition is finished
+		- Most casting directors will just say "thank you", or "thanks for coming in". DO NOT READ INTO THIS. They are genuinely thanking you for your time, and you should do the same.
+		- The best thing to do is thank them for having you in, thank the reader, and take your leave. 
+		- As you leave you might feel like they are still judging you because they are quiet. They are not. 
+			- This might sound silly but: Relax and take your time walking out of the room. You know how to open doors, don't feel like you have to rush!
+		- Once you're out of the room
+			- Thank the assistant who called you in if there is one
+			- Also feel free to wish the other people you were waiting with well. We are not competing with each other, if they get the gig that's a good thing!
+### After an audition
+- Address anxiety
+	- There can often be a feeling having done too much or of not having done enough, or anxiety about whether you did something wrong or embarrassing or whether you'll get it or whether you'll never work again
+	- This is normal
+	- Try to remember that this is one of a million auditions you will do in your career as an actor, and that none of them will ever be perfect.
+	- Once it's over, remind yourself that you did your best and truly let yourself clock out and forget about it. 
+	- Archive the email, toss the sides, delete the selftape footage. You are done with it!
+	- Auditioning is incredibly demanding of your time, attention and soul, and now the hardest part is done!
+## Call someone back
+- =={So and so} you got a callback! Come back up and lets try this again==
+# Callbacks (info for reference)
+- Dial back your expectations of yourself
+	- If you got a callback, take a second and accept the win.
+	- **The goal of every audition is just to get called back. You don't need to knock it out of the park, you just need to bring a point of view that warrants further attention.** 
+	- Getting called back doesn't even necessarily mean you will ultimately be right for the role. It only means that the casting director either wants to work with you further, or submit you for consideration to a production team. 
+	- If you get to this point, you have succeeded. Actually booking the role is now completely out of your hands. 
+- Don't reinvent the wheel
+	- Most of the time when you are called back, they just want to see what you did before again. 
+	- This is great, since you've already done the hard work of making strong choices and developing a point of view. 
+	- However, don't feel handcuffed to the exact performance you gave earlier. 
+		- You cannot possible reproduce exactly what happened in the first audition, so don't even try. 
+		- Just focus on your point of view and allow this to be a new experience. 
+		- The fact that you are you (your voice, your temperament your point of view) will mean that they are getting what they need from you. You don't need to consciously reproduce that.
+		- Everything else can be the same
+			- You now know the people in the room and can greet them as such
+			- They know what to expect from you
+- Accept adjustments
+	- A big part of callbacks is giving the creative team a chance to see how you actually work in rehearsal or on set.
+	- It is likely that as you work you will be given adjustments or things to try. This does NOT mean that you're doing anything wrong. 
+	- Sometimes the director is nudging you closer to what they see in their head, but often they are just seeing how you handle feedback. 
+	- Once you get a note or adjustment, that is your permission to let go of the choices you've made and let the director steer your performance. 
+		- Whatever they ask for, give it a shot, even if it sounds ridiculous or completely opposite from what you imagined for the role. 
+		- An actor is like a fine horse -- give them the slightest nudge and they'll run full speed in that direction. 
+- Leave gracefully
+	- Thank everyone for bringing you back in and take your leave calmly just like last time. 
+	- Then forget about the whole thing! Now it's truly over. 
+	- You went in once, you killed it, you went back in again, you killed it again. No one could possibly ask for anything more. 
+# Booking (info for reference)
+- WOOOO! YOU DID IT! (But be honest, deep down you knew you would)
+- Now the only thing to do is not overthink it. 
+	- Whatever you were doing they thought it was a good fit for what they needed. Let that be good enough.
+	- Again, you don't need to reinvent the wheel now that you. have the job. 
+	- Trust that what you bring by just being yourself is enough and if there's something they want to adjust they'll tell you.
+	- You don't need to prove that you deserve the job, you have the job. 
+- Confirm all the details of the job
+	- The role(s) you've been cast in. They may sometimes be different from the role(s) you auditioned for.
+	- Whether you're being payed and if so how much and how often. (Usually the rate is per week for theater and as one lump sum for TV and film)
+	- Where the job is and whether you need to travel there. 
+		- Most productions will provide travel/transport for, but be sure to confirm how that is being handled. 
+		- Most productions will provide housing for you if you are coming from out of town but again, be sure to confirm. 
+	- The dates of the production
+		- Most productions have set dates with some caveat for going over
+			- Theater has extension clauses in their contracts
+			- Film and TV have "outside dates", which are the earliest and latest that they may need you.
+	- The script
+		- Most productions will have a script ready for you, but some will have an un-finalized version. Always be sure which version you are working with.
+
+# Finding Auditions (discussion)
+-> How do you find auditions?
+	- Subscription Services (*this is the main route*)
+		- Backstage ($25/mo or $120/year) good for non-union projects, indie projects, some larger listings
+		- Actor's Access ($10/mo or $70/year) this is the industry standard service for self-taped auditions. 
+	- EPAs (*the numbers game*)
+		- **Pros:**
+			- AEA requires that non-union actors be allowed to audition for principal roles
+			- This is a pathway to earning your AEA union status
+			-  You will eventually be seen for a role
+			- You will eventually become known, casting directors and other actors will recognize you
+		- **Cons:**
+			- Standing in long lines for long hours
+			- Might not get seen (equity members get seen first, non-union get a time slot if there's time left. first come first served)
+			- Very competitive and sometimes cutthroat
+	- Agent/Manager
+		- When you have representation you will be sent auditions
+		- These are often rooms you can't get into on your own
+		- There is a channel of communication only accessible to agents, managers, casting directors, producers, etc... and usually NOT to actors unless you personally know someone or you are involved in the casting process for some reason
+		- These auditions may be sporadic (once every few weeks, or maybe once a month), or they may be overwhelmingly frequent (multiple every week, last minute selftapes, etc...) 
+		- These are usually "better" than what you can find on your own on Backstage, Actors Access, etc... More reputable theaters/studios, higher pay, union productions. 
+# Outside of Auditioning
+## Dispelling Myths (discussion)
+- No one will ever offer you a role on the spot, it just doesn't happen
+- It is not normal for someone to cut you off mid-scene. If someone does that, they are an asshole.
+- Casting is not looking for "range". Don't try to showcase other roles you can play through this audition, they want to see specific choices for this role.
+- Do not try to guess what they are looking for, casting often has no fucking clue what they want until you show it to them. Trust that your choices are good ones. 
+- Caffeine can be your friend if you really need it, but it can also really fuck you up. The best thing I ever did for my auditions was to stop drinking coffee beforehand. If you are calm you will always feel better in the room. 
+- Silence means nothing. If they are silent in the room it means they're listening and giving you space to do your work. If you don't hear back afterward, sometimes it doesn't even mean you didn't get it. I've booked things weeks and months after auditioning for them. The norm is for people to say nothing, don't read into it. 
+- If you didn't book it, it does not mean you weren't good enough. 
+	- I was a reader for auditions for The Diary of Anne Frank one time
+	- A woman came in for Anne and absolutely fucking crushed it, she was clearly the strongest read of the entire day.
+	- The moment she walked out everyone behind the table was like "damn, that's too bad"
+	- I was like "wait, what she was amazing!"
+	- They said "yeah she's amazing, but the guy we already cast as her father is this tall and she's this tall (taller than him). It just wouldn't read as though she's his daughter"
+	- *You can be the best read they've seen all day and still not book the role for reasons that are completely out of your control. And those can be the same reasons that you do book something else.*
+- You don't need to work nights to "stay available for auditions". 90% of all auditions are selftapes now so take the best job you can get and schedule your selftapes around that.
+- You can absolutely have tattoos, piercings, dyed hair, etc... No one wants you to be a blank slate, people want you to be unique! It is so easy to cover up a tattoo or remove a piercing for a gig. 
+## Surviving the Grind (discussion)
+- Auditioning can be grueling, especially when it starts to feel like you're audition all the time and never booking. 
+- The reality is that 90% of your contact with the entertainment industry will be auditions, not actual time on stage or in front of a camera.
+- Try to find other ways to engage with acting outside of the "business" of auditioning. 
+	- Meet with friends to read things
+	- Try to see as many things as you can (movies, tv, plays, music, art). This is basically a requirement for being an artist, but it can also take the edge off of the audition grind
+	- Get interested in ANY OTHER FUCKING THING. There must be other interests you've never had time to pursue -- Make. Time.
+- Take classes (You're already doing this)
+- Do anything you can to remind yourself you are still and artist and not just a professional audition-er.
+## Things to hold onto (discussion)
+- There are no rules. Here are things that feel like they're not allowed but are totally allowed
+	- Asking for accommodations for auditions
+		- When you get the audition, if you know you just can't have it ready by the deadline, ask for more time! 
+		- Much of the time they will give it to you
+	- Doing something creative with your selftape
+		- If you get a selftape that makes you think "how the fuck am I supposed to do this", try to think of a creative way to make it work
+			- If the scene has you getting arrested on the ground, put the camera on the floor and fall into frame
+			- If the scene is lying in bed, lie down in bed and put the camera next to you
+			- If the scene is in a loud club, put some music on
+			- If the scene has you playing identical twins, film it twice and stitch the footage together so you can talk to yourself. 
+			- These are all things I've done in the past and gotten positive feedback on!
+			- If it seems impossible to do just standing still in front of a blue background, try something different and it might work better. Most casting directors will love you for it.
+	- Sending in multiple takes of the same scene
+		- Sometimes casting will even invite you to do this!
+		- You should always explore any impulse you have about a scene and if that means doing it differently every time you do a take, so be it!
+		- If you have two takes that you like and can't decide which to send, always send both!
+		- Either they watch it or they don't, either way you've sent them a good tape. 
+	- Giving yourself something to do in the room
+		- I was struggling with a scene once in an audition and the casting director told me to take off a shoe and put it back on during the scene
+		- It totally worked, as soon as I had something to do everything else felt easier. 
+		- Don't bring props! 
+		- But if you're really stuck yourself something small to do
+			- Leave your jacket on a chair and put it on during the scene
+			- Find a moment to clean your glasses
+			- Tidy up the room a little
+			- As long as it's not so distracting that people won't be able to listen to what you're saying, go for it!
+	- Asking to start over in the room
+		- If you feel like something is getting in your way, feel free to ask for a second and start over
+			- If your mouth is running dry, take a sip of water
+			- If you're feeling light headed, take a breath
+			- If you drop a line and get completely lost, take a look at the script and try again
+			- You're not wasting their time by taking a moment for yourself
+- You are not alone
+	- There are tens of thousands, hundreds of thousands of actors in the exact same position as you and they are all looking to connect and find their path. 
+## Stay plugged in (discussion)
+- Try to stay up to date on what's happening in the industry
+	- Theater publications
+		- Playbill.com
+		- Backstage
+		- American Theater Magazine
+	- Theater podcasts
+		- The Ensemblist 
+		- Stagecraft with Gordon Cox
+	- Film publications
+		- Variety
+		- The Hollywood Reporter
+		- Deadline
+		- IndieWire
+	- Film podcasts
+		- The Town
+		- The Business
+		- Scriptnotes
+- Stay in touch with other actors
+	- Reach out to your friends, classmates, former castmates, etc...
+	- Everyone wants to feel seen and like they have people rooting for them. 
+	- Reach out and offer to do a selftape, or ask for help with one. 
+- Post about what you're doing
+	- It doesn't matter if it's small
+	- Post anything you work on with other people. 
+---
+# Notes
+
+### Suggestions from Bella
+- Break out of ruts/habits
+- Not so secret industry secrets
+- Things that feel like they’re not allowed but they’re totally allowed
+- How to survive the grind
+- Asking for accommodations for auditions (more time, etc…)
+- Dispelling myths
+
+### People will walk away with
+- A repeatable prep framework for self tapes and in-room auditions
+- Tools for managing audition anxiety under pressure
+- Memorization approaches that actually stick
+- Live feedback on their work
+- A small peer network for self tape support
+
+### Beta Test Invite Message
+Hey! I’m going to be testing out an audition workshop I’m making aimed at recent conservatory grads. If you’d be down to join I would love to get your honest feedback! It’ll be March 5 from 12-2pm on Zoom. 
+
+#### Beta Test Participants
+- [[Eli Pauley]] (staying for the first hour, then leaving to teach a class at Rutgers)
+- [[Misha Molani]]
+- [[Callista Brown]] - Joining for second half, has moved away from acting and more toward directing recently
+---
+# Beta Test Feedback
+
+### What was most useful?
+- 
+### What felt slow?
+- 
+### What do you wish we spent more time on?
+- 
