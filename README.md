@@ -11,11 +11,11 @@ Planning
 TBD
 
 ## Quick Links
-- Run of show: docs/March 5 Beta Test - Run of Show.md
-- Outline: docs/The Audition Survival Workshop.md
-- Admin checklist: admin/checklist.md
-- Outreach copy: outreach/copy.md
-- Debrief notes: feedback/March 3 Beta Test - Feedback.md
+- Run of show: [[March 5 Beta Test  - Run of Show]]
+- Outline: docs/[[The Audition Survival Workshop]]
+- Admin checklist: [[checklist]]
+- Outreach copy: outreach/[[copy]]
+- Debrief notes: feedback/[[March 3 Beta Test - Feedback]]
 
 ## How this repo is organized
 - docs/ = polished materials
